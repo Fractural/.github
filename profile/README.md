@@ -1,4 +1,4 @@
-![A banner that depicts the Fractural Studios logo.](/profile/banner.png)
+![A banner that depicts the Fractural Studios logo.](https://github.com/Fractural/.github/blob/main/profile/banner.png)
 
 # Hi there 👋
 
